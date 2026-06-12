@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,9400D3&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&fontAlignY=35&desc=B.Tech%20%2B%20M.Tech%20%7C%20Mathematics%20and%20Computing%20%7C%20AI%2FML&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=60&lines=Mathematics+%26+Computing+Dual+Degree;Exploring+Artificial+Intelligence+%26+ML;Kotlin+Team+Lead+%40+GDSC;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=60&lines=Mathematics+%26+Computing+Dual+Degree;Exploring+Artificial+Intelligence+%26+ML;Open+Source+Contributor" alt="Typing SVG" />
 
   <br>
   
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Dual Degree (B.Tech + M.Tech) student in **Mathematics and Computing Technology** at the **National Institute of Technology, Patna**. My expertise lies in building advanced Machine Learning models, Signal Processing, and Deep Learning applications. I actively contribute to academic research and lead technical teams as the Kotlin Team Lead at GDSC and Vice President of the Science and Environment Club.
+I am a 5th-year Dual Degree (B.Tech + M.Tech) student in **Mathematics and Computing Technology** at the **National Institute of Technology, Patna** (CGPA: 8.23). My expertise lies in building advanced Machine Learning models, Signal Processing, and Deep Learning applications. I actively contribute to academic research and lead technical teams as the Vice President of the Science and Environment Club.
 
 - 🚀 Designing Multimodal Emotion Detection systems using physiological and behavioral data.
 - 🧠 Fine-tuning AI/ML models (SVM, LightGBM, XGBoost, Transformers).
@@ -170,7 +170,6 @@ A medical chatbot providing preliminary healthcare assistance using advanced lan
 | **Top 20 Percent** | Academic excellence |
 | **IBM SPSS Statistics Expert** | Certification & expertise in SPSS |
 | **Vice President** | Science and Environment Club, NIT Patna (2024-Present) |
-| **Kotlin Team Lead** | Google Developer Student Club (GDSC), NIT Patna (2023-Present) |
 | **Class Representative** | Mathematics and Computing Technology, NIT Patna (2022-Present) |
 
 </div>
