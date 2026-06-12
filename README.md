@@ -10,9 +10,9 @@
   
   <br><br>
 
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=8A2BE2" alt="Portfolio" /></a>
+  <a href="https://github.com/GokavalasaHemanthNaidu/PortfolioGHN"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=8A2BE2" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" /></a>
+  <a href="mailto:gokavalasahemanthnaidu@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" /></a>
   <a href="https://github.com/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="GitHub" /></a>
 
   <br><br>
@@ -85,7 +85,7 @@ I am a **Senior Software Engineer** with a product-engineering mindset, speciali
 ## 🏗️ Featured Projects
 
 <details>
-<summary><b>Nexus AI - Enterprise Intelligence Platform</b></summary>
+<summary><b>Multimodal-Emotion-Detection</b></summary>
 <br>
 
 A scalable, distributed platform that provides predictive analytics and real-time insights for large-scale enterprise data using Large Language Models and Retrieval-Augmented Generation (RAG).
@@ -97,14 +97,14 @@ A scalable, distributed platform that provides predictive analytics and real-tim
 | **Performance** | Sub-50ms inference latency through optimized vector caching |
 | **Security** | End-to-end encryption, SOC2 compliant, Zero Trust Architecture |
 | **Impact** | Reduced operational costs by 35% and increased data retrieval speed by 400% |
-| **Repository** | [github.com/GokavalasaHemanthNaidu/nexus-ai](#) |
+| **Repository** | [github.com/GokavalasaHemanthNaidu/Multimodal-Emotion-Detection-using-Heart-rate-Text-and-audio](#) |
 
 *Architected the entire microservices ecosystem, deployed custom ML models, and established the CI/CD deployment strategies using GitHub Actions and Terraform.*
 
 </details>
 
 <details>
-<summary><b>QuantumStream - High-Throughput Event Processor</b></summary>
+<summary><b>Project-Samarth</b></summary>
 <br>
 
 A robust streaming engine designed to ingest, process, and route millions of events per second with minimal latency, utilizing advanced message brokering and memory-safe languages.
@@ -116,14 +116,14 @@ A robust streaming engine designed to ingest, process, and route millions of eve
 | **Performance** | Maintained throughput of 2M EPS with <5ms latency |
 | **Security** | TLS 1.3 encryption, mTLS authentication |
 | **Impact** | Replaced legacy monolith, improving ingestion rate by 10x |
-| **Repository** | [github.com/GokavalasaHemanthNaidu/quantum-stream](#) |
+| **Repository** | [github.com/GokavalasaHemanthNaidu/Project-Samarth](#) |
 
 *Spearheaded the transition from Node.js to Rust, designed the sharded data processing pipelines, and implemented custom metrics exporters for Prometheus and Grafana.*
 
 </details>
 
 <details>
-<summary><b>Aero UI - Modern Component Library</b></summary>
+<summary><b>Healthcare-Chatbot</b></summary>
 <br>
 
 An accessible, highly customizable React component library tailored for dark-themed, data-heavy enterprise dashboards.
@@ -135,7 +135,7 @@ An accessible, highly customizable React component library tailored for dark-the
 | **Performance** | Tree-shakable architecture resulting in <20kb bundle size |
 | **Security** | Automated dependency auditing and XSS prevention |
 | **Impact** | Standardized the UX across all company products |
-| **Repository** | [github.com/GokavalasaHemanthNaidu/aero-ui](#) |
+| **Repository** | [github.com/GokavalasaHemanthNaidu/Healthcare-Chatbot](#) |
 
 *Developed the design system tokens, built accessible (WCAG 2.1 AA) primitives, and maintained the rigorous testing suite and documentation.*
 
@@ -291,10 +291,10 @@ profile:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&borderColor=8A2BE2" alt="Gmail" /></a>
+<a href="mailto:gokavalasahemanthnaidu@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&borderColor=8A2BE2" alt="Gmail" /></a>
 <a href="https://linkedin.com/in/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&borderColor=8A2BE2" alt="LinkedIn" /></a>
 <a href="https://github.com/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2&borderColor=8A2BE2" alt="GitHub" /></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=8A2BE2&borderColor=8A2BE2" alt="Portfolio" /></a>
+<a href="https://github.com/GokavalasaHemanthNaidu/PortfolioGHN"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=8A2BE2&borderColor=8A2BE2" alt="Portfolio" /></a>
 
 </div>
 
@@ -307,3 +307,4 @@ profile:
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9400D3,8A2BE2,4B0082&height=100&section=footer" width="100%" />
 </div>
+
