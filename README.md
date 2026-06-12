@@ -1,19 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,9400D3&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,9400D3&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&fontAlignY=35&desc=B.Tech%20%2B%20M.Tech%20%7C%20Mathematics%20%26%20Computing%20%7C%20AI%2FML&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=60&lines=Building+Enterprise-Grade+Solutions;Architecting+Scalable+Backend+Systems;Exploring+Artificial+Intelligence+%26+ML;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=60&lines=Mathematics+%26+Computing+Dual+Degree;Exploring+Artificial+Intelligence+%26+ML;Kotlin+Team+Lead+%40+GDSC;Open+Source+Contributor" alt="Typing SVG" />
 
   <br>
   
-  <img src="https://img.shields.io/badge/M.S.%20Computer%20Science-000000?style=for-the-badge&logo=instructure&logoColor=8A2BE2&borderColor=8A2BE2" alt="Education" />
-  <img src="https://img.shields.io/badge/Location-San%20Francisco,%20CA-000000?style=for-the-badge&logo=google-maps&logoColor=8A2BE2&borderColor=8A2BE2" alt="Location" />
+  <img src="https://img.shields.io/badge/B.Tech%20%2B%20M.Tech-Mathematics%20%26%20Computing-000000?style=for-the-badge&logo=instructure&logoColor=8A2BE2&borderColor=8A2BE2" alt="Education" />
+  <img src="https://img.shields.io/badge/Location-Patna,%20India-000000?style=for-the-badge&logo=google-maps&logoColor=8A2BE2&borderColor=8A2BE2" alt="Location" />
   
   <br><br>
 
-  <a href="https://github.com/GokavalasaHemanthNaidu/PortfolioGHN"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=8A2BE2" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" /></a>
-  <a href="mailto:gokavalasahemanthnaidu@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" /></a>
-  <a href="https://github.com/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/im-hemanth"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&borderColor=8A2BE2" alt="LinkedIn" /></a>
+  <a href="mailto:gokavalashemanthnaidu@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&borderColor=8A2BE2" alt="Email" /></a>
+  <a href="https://github.com/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2&borderColor=8A2BE2" alt="GitHub" /></a>
 
   <br><br>
 
@@ -27,14 +26,14 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior Software Engineer** with a product-engineering mindset, specializing in architecting and deploying highly scalable, distributed systems. My core expertise bridges the gap between sophisticated backend infrastructure and cutting-edge **Artificial Intelligence / Machine Learning** integrations. As a **Full Stack Developer**, I orchestrate complex enterprise-grade solutions from conceptualization to production, ensuring uncompromising performance, reliability, and security.
+I am a Dual Degree (B.Tech + M.Tech) student in **Mathematics and Computing Technology** at the **National Institute of Technology, Patna**. My expertise lies in building advanced Machine Learning models, Signal Processing, and Deep Learning applications. I actively contribute to academic research and lead technical teams as the Kotlin Team Lead at GDSC and Vice President of the Science and Environment Club.
 
-- 🚀 Delivering resilient architectures and microservices that operate at scale.
-- 🧠 Designing and fine-tuning AI/ML models to solve complex business problems.
-- 💡 Driving product innovation through clean, maintainable code and modern engineering practices.
-- 🤝 Advocating for Open Source and robust CI/CD methodologies.
+- 🚀 Designing Multimodal Emotion Detection systems using physiological and behavioral data.
+- 🧠 Fine-tuning AI/ML models (SVM, LightGBM, XGBoost, Transformers).
+- 💡 Conducting statistical analysis and probability modeling.
+- 🤝 Actively involved in technical leadership and academic representation.
 
-**Open To:** Leadership Roles · System Architecture · AI/ML Engineering · Open Source Collaborations
+**Open To:** Research Internships · AI/ML Engineering Roles · Open Source Collaborations
 
 ---
 
@@ -44,22 +43,17 @@ I am a **Senior Software Engineer** with a product-engineering mindset, speciali
 
 ### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,java,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,r&theme=dark" />
 </a>
 
-### Frontend
+### ML & Data Science
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,redux,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy&theme=dark" />
 </a>
 
-### Backend & Databases
+### Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,postgres,mysql,mongodb,redis,kafka,graphql&theme=dark" />
-</a>
-
-### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,git,figma,raspberrypi,linux&theme=dark" />
 </a>
 
 </div>
@@ -72,11 +66,11 @@ I am a **Senior Software Engineer** with a product-engineering mindset, speciali
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Deep Learning & Neural Networks** | Advanced | PyTorch, TensorFlow, Keras, CNNs, RNNs, Transformers |
-| **Natural Language Processing (NLP)** | Advanced | LLMs (GPT, LLaMA), Hugging Face, LangChain, RAG, Word Embeddings |
-| **Computer Vision** | Intermediate | OpenCV, YOLO, Object Detection, Image Segmentation |
-| **Machine Learning Operations (MLOps)** | Advanced | MLflow, Kubeflow, Model Deployment, Data Pipelines |
-| **Data Engineering** | Advanced | Pandas, Spark, Airflow, Hadoop, BigQuery |
+| **Machine Learning** | Advanced | SVM, Random Forest, LightGBM, XGBoost, Logistic Regression |
+| **Signal Processing** | Advanced | Feature extraction, TF-IDF, MFCCs, Late Fusion Strategies |
+| **Deep Learning** | Intermediate | Neural Networks, OpenCV, Multimodal Systems |
+| **Data Analytics** | Advanced | R, Probability Analysis, Statistical Modeling |
+| **Large Language Models** | Intermediate | LLMs integration and prompt engineering |
 
 </div>
 
@@ -85,21 +79,21 @@ I am a **Senior Software Engineer** with a product-engineering mindset, speciali
 ## 🏗️ Featured Projects
 
 <details>
-<summary><b>Multimodal-Emotion-Detection</b></summary>
+<summary><b>Multimodal-Emotion-Detection-using-Heart-rate-Text-and-audio</b></summary>
 <br>
 
-A scalable, distributed platform that provides predictive analytics and real-time insights for large-scale enterprise data using Large Language Models and Retrieval-Augmented Generation (RAG).
+A robust system for multimodal emotion detection using physiological and behavioral data, developed during my research internship.
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | Python, FastAPI, React, PostgreSQL, Redis, Kubernetes, AWS |
-| **Scale** | Serving 10M+ daily requests with 99.99% uptime |
-| **Performance** | Sub-50ms inference latency through optimized vector caching |
-| **Security** | End-to-end encryption, SOC2 compliant, Zero Trust Architecture |
-| **Impact** | Reduced operational costs by 35% and increased data retrieval speed by 400% |
+| **Stack** | Python, Machine Learning, Signal Processing |
+| **Scale** | Processed physiological, text, and audio datasets |
+| **Performance** | Achieved 92.8% accuracy and 0.93 weighted F1-score |
+| **Security** | Handled private physiological data securely |
+| **Impact** | Improved emotion recognition accuracy by 44% using late fusion |
 | **Repository** | [github.com/GokavalasaHemanthNaidu/Multimodal-Emotion-Detection-using-Heart-rate-Text-and-audio](#) |
 
-*Architected the entire microservices ecosystem, deployed custom ML models, and established the CI/CD deployment strategies using GitHub Actions and Terraform.*
+*Enhanced feature extraction with TF-IDF and MFCCs and fine-tuned models to address class imbalance effectively.*
 
 </details>
 
@@ -107,18 +101,18 @@ A scalable, distributed platform that provides predictive analytics and real-tim
 <summary><b>Project-Samarth</b></summary>
 <br>
 
-A robust streaming engine designed to ingest, process, and route millions of events per second with minimal latency, utilizing advanced message brokering and memory-safe languages.
+An interactive application designed to enhance user engagement through a conversational AI interface.
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | Rust, Go, Apache Kafka, gRPC, Docker, GCP |
-| **Scale** | Processing 500GB+ of telemetry data per day |
-| **Performance** | Maintained throughput of 2M EPS with <5ms latency |
-| **Security** | TLS 1.3 encryption, mTLS authentication |
-| **Impact** | Replaced legacy monolith, improving ingestion rate by 10x |
+| **Stack** | TypeScript, Full Stack Technologies |
+| **Scale** | Real-time conversational interface |
+| **Performance** | Low latency message processing |
+| **Security** | Secure data transmission |
+| **Impact** | Streamlined user queries |
 | **Repository** | [github.com/GokavalasaHemanthNaidu/Project-Samarth](#) |
 
-*Spearheaded the transition from Node.js to Rust, designed the sharded data processing pipelines, and implemented custom metrics exporters for Prometheus and Grafana.*
+*Developed the core communication logic, ensuring a smooth and responsive user experience.*
 
 </details>
 
@@ -126,18 +120,18 @@ A robust streaming engine designed to ingest, process, and route millions of eve
 <summary><b>Healthcare-Chatbot</b></summary>
 <br>
 
-An accessible, highly customizable React component library tailored for dark-themed, data-heavy enterprise dashboards.
+A medical chatbot providing preliminary healthcare assistance using advanced language models.
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | TypeScript, React, Tailwind CSS, Storybook, Jest |
-| **Scale** | Used by 50+ internal teams and 100k+ end users |
-| **Performance** | Tree-shakable architecture resulting in <20kb bundle size |
-| **Security** | Automated dependency auditing and XSS prevention |
-| **Impact** | Standardized the UX across all company products |
+| **Stack** | Python, Machine Learning, AI |
+| **Scale** | Handling multiple medical queries |
+| **Performance** | Fast response times with accurate information retrieval |
+| **Security** | Privacy-focused query handling |
+| **Impact** | Accessible medical information |
 | **Repository** | [github.com/GokavalasaHemanthNaidu/Healthcare-Chatbot](#) |
 
-*Developed the design system tokens, built accessible (WCAG 2.1 AA) primitives, and maintained the rigorous testing suite and documentation.*
+*Integrated NLP models to parse symptom descriptions and suggest relevant preliminary medical advice.*
 
 </details>
 
@@ -145,42 +139,39 @@ An accessible, highly customizable React component library tailored for dark-the
 
 ## 💼 Experience
 
-**Senior Software Engineer** | **TechNova Corp**
-*Jan 2021 – Present*
+**Summer Intern** | **Indian Institute of Technology (IIT) Ropar**
+*May 2025 – July 2025 | Remote*
 
-Leading the backend infrastructure team to design and scale critical distributed systems that power the company's flagship data analytics products.
+- Developed a "Multimodal Emotion Detection System" using Heart Rate, Text, and Audio signals, achieving 92.8% accuracy and 0.93 weighted F1-score for text classification (SVM/Stacking).
+- Designed a late fusion strategy to integrate text, audio, and physiological signals for better detection of emotional states.
+- Fine-tuned various ML models (Logistic Regression, SVM, Random Forest, LightGBM, XGBoost) to address class imbalance effectively.
 
-- Architected a highly available microservices ecosystem handling over 5 million concurrent connections.
-- Integrated LLM capabilities into existing workflows, reducing manual data processing time by 60%.
-- Mentored junior engineers, established best practices for code reviews, and implemented strict CI/CD pipelines.
-
-`Python` `Go` `Kubernetes` `AWS` `PostgreSQL` `Kafka`
+`Python` `Machine Learning` `Signal Processing` `SVM` `XGBoost`
 
 <br>
 
-**Software Engineer II** | **InnoSoft Solutions**
-*Jun 2018 – Dec 2020*
+**Research Intern** | **Indian Statistical Institute (ISI) Bangalore**
+*Summer 2025 | On-site*
 
-Developed core features for a highly-trafficked SaaS platform focused on real-time financial tracking and reporting.
+- Conducted "Probability Analysis Using R," focusing on data analytics and statistical insights.
+- Developed statistical models in R, enhancing skills in data analysis and predictive modeling.
+- Collaborated with a team to analyze real-world data, applying statistical methods for informed decision-making.
 
-- Re-engineered the legacy monolithic application into modular Node.js microservices.
-- Optimized database queries resulting in a 40% reduction in API response times.
-- Built responsive, interactive dashboards using React and Redux.
-
-`Node.js` `React` `MongoDB` `Redis` `Docker` `GCP`
+`R` `Data Analytics` `Probability Modeling` `Statistical Analysis`
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Leadership
 
 <div align="center">
 
-| Recognition | Details |
+| Recognition & Role | Details |
 | :--- | :--- |
-| **Open Source Contributor of the Year** | Recognized for significant contributions to the TensorFlow repository |
-| **1st Place, Global Hackathon** | Built an AI-driven disaster response coordination system out of 5,000+ participants |
-| **Patent Inventor** | Co-inventor on a patent regarding optimized vector search algorithms for LLMs |
-| **Top 1% on LeetCode** | Consistently ranked in the top percentile globally in algorithmic problem solving |
+| **Top 20 Percent** | Academic excellence |
+| **IBM SPSS Statistics Expert** | Certification & expertise in SPSS |
+| **Vice President** | Science and Environment Club, NIT Patna (2024-Present) |
+| **Kotlin Team Lead** | Google Developer Student Club (GDSC), NIT Patna (2023-Present) |
+| **Class Representative** | Mathematics and Computing Technology, NIT Patna (2022-Present) |
 
 </div>
 
@@ -190,18 +181,9 @@ Developed core features for a highly-trafficked SaaS platform focused on real-ti
 
 <div align="center">
 
-### AWS
-<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Professional-000000?style=for-the-badge&logo=amazonwebservices&logoColor=8A2BE2" alt="AWS SA Pro" />
-<img src="https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20Specialty-000000?style=for-the-badge&logo=amazonwebservices&logoColor=8A2BE2" alt="AWS ML Specialty" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Certified%20Professional%20Java%20SE-000000?style=for-the-badge&logo=oracle&logoColor=8A2BE2" alt="Oracle Java" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Deep%20Learning%20Elite-000000?style=for-the-badge&logo=google&logoColor=8A2BE2" alt="NPTEL Elite" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-CCNA%20Routing%20and%20Switching-000000?style=for-the-badge&logo=cisco&logoColor=8A2BE2" alt="CCNA" />
+<img src="https://img.shields.io/badge/Certification-Summer%20Research%20Intern%20NIT%20Patna-000000?style=for-the-badge&logo=google&logoColor=8A2BE2" alt="Summer Research Intern" />
+<img src="https://img.shields.io/badge/Certification-Full%20Stack%20Development-000000?style=for-the-badge&logo=react&logoColor=8A2BE2" alt="Full Stack Dev" />
+<img src="https://img.shields.io/badge/Certification-Data%20Visualisation-000000?style=for-the-badge&logo=tableau&logoColor=8A2BE2" alt="Data Visualisation" />
 
 </div>
 
@@ -211,10 +193,8 @@ Developed core features for a highly-trafficked SaaS platform focused on real-ti
 
 <div align="center">
 
-<a href="https://leetcode.com/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/LeetCode-Top%201%25-000000?style=for-the-badge&logo=leetcode&logoColor=8A2BE2&borderColor=8A2BE2" alt="LeetCode" /></a>
-<a href="https://auth.geeksforgeeks.org/user/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%201-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=8A2BE2&borderColor=8A2BE2" alt="GeeksforGeeks" /></a>
-<a href="https://hackerrank.com/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/HackerRank-6%20Star%20Gold-000000?style=for-the-badge&logo=hackerrank&logoColor=8A2BE2&borderColor=8A2BE2" alt="HackerRank" /></a>
-<a href="https://codechef.com/users/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/CodeChef-5%20Star-000000?style=for-the-badge&logo=codechef&logoColor=8A2BE2&borderColor=8A2BE2" alt="CodeChef" /></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=8A2BE2&borderColor=8A2BE2" alt="LeetCode" /></a>
+<a href="https://github.com/equilusten-hn"><img src="https://img.shields.io/badge/GitHub-equilusten--hn-000000?style=for-the-badge&logo=github&logoColor=8A2BE2&borderColor=8A2BE2" alt="GitHub Alt" /></a>
 
 </div>
 
@@ -270,19 +250,18 @@ Developed core features for a highly-trafficked SaaS platform focused on real-ti
 ```yaml
 profile:
   learning:
-    - Advanced Machine Learning architectures (Transformers, Diffusion)
-    - Rust for system-level programming and web assembly
-    - High-performance distributed systems engineering
+    - Advanced Multimodal Systems
+    - Real-time Deep Learning Inference
   building:
-    - Open source LLM agents framework
-    - Next-generation real-time analytics engine
+    - AI-Driven Healthcare Chatbots
+    - Real-time signal processing pipelines
   exploring:
-    - The intersection of AI and Quantum Computing
-    - Zero-Knowledge Proofs (ZKPs) for privacy-preserving AI
+    - Statistical Models in Data Analytics
+    - Large Language Models & Embeddings
   open_to:
-    - Enterprise architecture consulting
-    - Open source collaborations
-    - Technical speaking engagements
+    - Research internships in AI/ML
+    - Machine Learning Engineering roles
+    - Open source contributions
 ```
 
 ---
@@ -291,10 +270,9 @@ profile:
 
 <div align="center">
 
-<a href="mailto:gokavalasahemanthnaidu@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&borderColor=8A2BE2" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&borderColor=8A2BE2" alt="LinkedIn" /></a>
+<a href="mailto:gokavalashemanthnaidu@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&borderColor=8A2BE2" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/im-hemanth"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&borderColor=8A2BE2" alt="LinkedIn" /></a>
 <a href="https://github.com/GokavalasaHemanthNaidu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2&borderColor=8A2BE2" alt="GitHub" /></a>
-<a href="https://github.com/GokavalasaHemanthNaidu/PortfolioGHN"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=8A2BE2&borderColor=8A2BE2" alt="Portfolio" /></a>
 
 </div>
 
@@ -302,9 +280,8 @@ profile:
 
 <div align="center">
   <br>
-  <i>"Engineering is the art of organizing chaos into elegant, scalable solutions."</i>
+  <i>"Passionate about leveraging Mathematics and Computing to build intelligent, real-world AI solutions."</i>
   <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9400D3,8A2BE2,4B0082&height=100&section=footer" width="100%" />
 </div>
-
