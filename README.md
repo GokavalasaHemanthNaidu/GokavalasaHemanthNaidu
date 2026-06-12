@@ -76,64 +76,36 @@ I am a 5th-year Dual Degree (B.Tech + M.Tech) student in **Mathematics and Compu
 
 ---
 
-## 🏗️ Featured Projects
+## 📌 Pinned Projects
 
-<details>
-<summary><b>Multimodal-Emotion-Detection-using-Heart-rate-Text-and-audio</b></summary>
-<br>
+<div align="center">
 
-A robust system for multimodal emotion detection using physiological and behavioral data, developed during my research internship.
+<a href="https://github.com/GokavalasaHemanthNaidu/Multimodal-Emotion-Detection-using-Heart-rate-Text-and-audio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=Multimodal-Emotion-Detection-using-Heart-rate-Text-and-audio&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false" width="48%" />
+</a>
+<a href="https://github.com/GokavalasaHemanthNaidu/AI-Product-Description-Generator-2.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=AI-Product-Description-Generator-2.0&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false" width="48%" />
+</a>
 
-| Attribute | Details |
-| :--- | :--- |
-| **Stack** | Python, Machine Learning, Signal Processing |
-| **Scale** | Processed physiological, text, and audio datasets |
-| **Performance** | Achieved 92.8% accuracy and 0.93 weighted F1-score |
-| **Security** | Handled private physiological data securely |
-| **Impact** | Improved emotion recognition accuracy by 44% using late fusion |
-| **Repository** | [github.com/GokavalasaHemanthNaidu/Multimodal-Emotion-Detection-using-Heart-rate-Text-and-audio](#) |
+<br><br>
 
-*Enhanced feature extraction with TF-IDF and MFCCs and fine-tuned models to address class imbalance effectively.*
+<a href="https://github.com/GokavalasaHemanthNaidu/AlphaLOB">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=AlphaLOB&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false" width="48%" />
+</a>
+<a href="https://github.com/GokavalasaHemanthNaidu/Soochak">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=Soochak&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false" width="48%" />
+</a>
 
-</details>
+<br><br>
 
-<details>
-<summary><b>Project-Samarth</b></summary>
-<br>
+<a href="https://github.com/GokavalasaHemanthNaidu/TrustLens-Visual-Document-Trust-Chain">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=TrustLens-Visual-Document-Trust-Chain&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false" width="48%" />
+</a>
+<a href="https://github.com/GokavalasaHemanthNaidu/PramanaChain">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=PramanaChain&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false" width="48%" />
+</a>
 
-An interactive application designed to enhance user engagement through a conversational AI interface.
-
-| Attribute | Details |
-| :--- | :--- |
-| **Stack** | TypeScript, Full Stack Technologies |
-| **Scale** | Real-time conversational interface |
-| **Performance** | Low latency message processing |
-| **Security** | Secure data transmission |
-| **Impact** | Streamlined user queries |
-| **Repository** | [github.com/GokavalasaHemanthNaidu/Project-Samarth](#) |
-
-*Developed the core communication logic, ensuring a smooth and responsive user experience.*
-
-</details>
-
-<details>
-<summary><b>Healthcare-Chatbot</b></summary>
-<br>
-
-A medical chatbot providing preliminary healthcare assistance using advanced language models.
-
-| Attribute | Details |
-| :--- | :--- |
-| **Stack** | Python, Machine Learning, AI |
-| **Scale** | Handling multiple medical queries |
-| **Performance** | Fast response times with accurate information retrieval |
-| **Security** | Privacy-focused query handling |
-| **Impact** | Accessible medical information |
-| **Repository** | [github.com/GokavalasaHemanthNaidu/Healthcare-Chatbot](#) |
-
-*Integrated NLP models to parse symptom descriptions and suggest relevant preliminary medical advice.*
-
-</details>
+</div>
 
 ---
 
