@@ -214,16 +214,6 @@ A medical chatbot providing preliminary healthcare assistance using advanced lan
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GokavalasaHemanthNaidu&theme=radical&row=1&column=6&no-frame=false&no-bg=true&title-text-color=8A2BE2" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
