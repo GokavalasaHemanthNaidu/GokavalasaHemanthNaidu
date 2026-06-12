@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,9400D3&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&fontAlignY=35&desc=B.Tech%20%2B%20M.Tech%20%7C%20Mathematics%20%26%20Computing%20%7C%20AI%2FML&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,9400D3&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&fontAlignY=35&desc=B.Tech%20%2B%20M.Tech%20%7C%20Mathematics%20and%20Computing%20%7C%20AI%2FML&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=60&lines=Mathematics+%26+Computing+Dual+Degree;Exploring+Artificial+Intelligence+%26+ML;Kotlin+Team+Lead+%40+GDSC;Open+Source+Contributor" alt="Typing SVG" />
 
