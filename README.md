@@ -80,29 +80,29 @@ I am a 5th-year Dual Degree (B.Tech + M.Tech) student in **Mathematics and Compu
 
 <div align="center">
 
-<a href="https://github.com/GokavalasaHemanthNaidu/Multimodal-Emotion-Detection-using-Heart-rate-Text-and-audio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=Multimodal-Emotion-Detection-using-Heart-rate-Text-and-audio&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=1" width="48%" />
+<a href="https://github.com/GokavalasaHemanthNaidu/Multimodal-Emotion-Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=Multimodal-Emotion-Detection&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=2" width="48%" />
 </a>
-<a href="https://github.com/GokavalasaHemanthNaidu/AI-Product-Description-Generator-2.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=AI-Product-Description-Generator-2.0&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=1" width="48%" />
+<a href="https://github.com/GokavalasaHemanthNaidu/AI-Product-Description">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=AI-Product-Description&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=2" width="48%" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/GokavalasaHemanthNaidu/AlphaLOB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=AlphaLOB&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=AlphaLOB&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=2" width="48%" />
 </a>
 <a href="https://github.com/GokavalasaHemanthNaidu/Soochak">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=Soochak&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=Soochak&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=2" width="48%" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/GokavalasaHemanthNaidu/TrustLens-Visual-Document-Trust-Chain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=TrustLens-Visual-Document-Trust-Chain&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=1" width="48%" />
+<a href="https://github.com/GokavalasaHemanthNaidu/TrustLens">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=TrustLens&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=2" width="48%" />
 </a>
 <a href="https://github.com/GokavalasaHemanthNaidu/PramanaChain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=PramanaChain&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GokavalasaHemanthNaidu&repo=PramanaChain&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&icon_color=9400D3&border_color=4B0082&hide_border=false&v=2" width="48%" />
 </a>
 
 </div>
